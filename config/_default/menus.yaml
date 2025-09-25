@@ -1,0 +1,21 @@
+leftnav:
+- identifier: 151c9c77-baed-2e96-115a-7b54331c31c0
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: 33eabb9b-72b3-aa0c-3f63-c881b7ad488e
+  name: 'Part I: Particle and Continuum Methods'
+  pageRef: /pages/part-i-lectures-readings
+  weight: 20
+- identifier: 585ba666-0810-835b-9d9f-1ec7fe05b24e
+  name: 'Part II: Quantum Mechanical Methods'
+  pageRef: /video_galleries/part-ii-lectures-videos-and-notes
+  weight: 30
+- identifier: 9f56b50d-67ff-c7d0-e03c-de3fedeb3c72
+  name: Assignments
+  pageRef: /pages/assignments
+  weight: 40
+- identifier: 0e2fd477-5c32-3bb7-4499-0df380e2a132
+  name: Related Resources
+  pageRef: /pages/related-resources
+  weight: 50
