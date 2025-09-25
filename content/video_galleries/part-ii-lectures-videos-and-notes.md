@@ -4,6 +4,8 @@ description: This section provides lecture videos and lecture notes for the seco
   half of the course as taught by Professor Jeffrey Grossman. Please note that Lecture
   3 is presented by guest lecturer, Michelle Tomasik, and Lecture 11 does not have
   an associated video.
+hide_download: true
+hide_download_original: null
 is_media_gallery: true
 learning_resource_types: []
 ocw_type: CourseSection
