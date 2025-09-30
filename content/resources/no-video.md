@@ -4,6 +4,8 @@ description: ''
 file: /courses/3-021j-introduction-to-modeling-and-simulation-spring-2012/3b456812548b7fd67e2366dd821af219_No-Video.jpg
 file_size: 23046
 file_type: image/jpeg
+hide_download: true
+hide_download_original: null
 image_metadata:
   caption: ''
   credit: ''

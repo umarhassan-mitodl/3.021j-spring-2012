@@ -3,6 +3,8 @@ content_type: page
 description: This page contains suggested readings for the assignments in Part I,
   and the problem sets for Part II of this course. The assignments for Part I are
   not available. Note that Part I materials are as taught the previous year.
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection

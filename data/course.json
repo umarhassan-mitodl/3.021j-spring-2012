@@ -38,6 +38,7 @@
     "website": "3-021j-introduction-to-modeling-and-simulation-spring-2012"
   },
   "course_title": "Introduction to Modeling and Simulation",
+  "hide_download": true,
   "course_description": "This subject provides an introduction to modeling and simulation, covering continuum methods, atomistic and molecular simulation, and quantum mechanics. Hands-on training is provided in the fundamentals and applications of these methods to key engineering problems. The lectures provide exposure to areas of application based on the scientific exploitation of the power of computation. We use web based applets for simulations, thus extensive programming skills are not required.\n",
   "department_numbers": [
     "3",
@@ -52,6 +53,7 @@
     "content": "83bf8904-2817-e891-0384-00ad99726626",
     "website": "3-021j-introduction-to-modeling-and-simulation-spring-2012"
   },
+  "hide_download_original": true,
   "learning_resource_types": [
     "Problem Sets",
     "Lecture Notes",

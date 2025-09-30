@@ -2,6 +2,8 @@
 content_type: page
 description: This section provides a list of news articles written about the course
   instructors' work.
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Related Resources

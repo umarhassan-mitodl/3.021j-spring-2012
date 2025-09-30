@@ -4,6 +4,8 @@ description: This is a sample file contains information regarding fuel1-cis.xyz.
 file: /courses/3-021j-introduction-to-modeling-and-simulation-spring-2012/a73ea9491c5b7635e1d4b3a1d38a2c1e_fuel1-cis.xyz
 file_size: 1964
 file_type: chemical/x-xyz
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -3,6 +3,8 @@ content_type: page
 description: This syllabus section provides the course description and information
   on prerequisites, instructors, recitations, homework, exams, grading, and the schedule
   of lecture topics, quizzes, and key dates for assignments.
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus

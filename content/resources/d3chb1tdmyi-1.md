@@ -4,6 +4,8 @@ description: ''
 file: /courses/3-021j-introduction-to-modeling-and-simulation-spring-2012/199a2763611a12fb56bcc27212e305ae_d3ChB1tDMyI.pdf
 file_size: 68455
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
